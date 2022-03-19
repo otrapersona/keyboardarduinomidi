@@ -179,31 +179,31 @@ void loop()
 
 		switch (curr)
 		{
-		case 0x70:
+		case 0x45:
 			octave = 0;
 			break;
-		case 0x69:
+		case 0x16:
 			octave = 1;
 			break;
-		case 0x72:
+		case 0x1E:
 			octave = 2;
 			break;
-		case 0x7A:
+		case 0x26:
 			octave = 3;
 			break;
-		case 0x6B:
+		case 0x25:
 			octave = 4;
 			break;
-		case 0x73:
+		case 0x2E:
 			octave = 5;
 			break;
-		case 0x74:
+		case 0x36:
 			octave = 6;
 			break;
-		case 0x6C:
+		case 0x30:
 			octave = 7;
 			break;
-		case 0x75:
+		case 0x3E:
 			octave = 8;
 			break;
 		case 0x1A:

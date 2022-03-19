@@ -59,18 +59,19 @@ The next section (Octave selector) addresses changing octave/pitch.
 
 ### Octave selector
 
-Default = 1.\
-Press one of this keys to change the octave of the keyboard (pitch?).\
-Note: You might want to switch to octave 4 first, it's the middle one, [source](https://en.wikipedia.org/wiki/Octave "Octave - Wikipedia").
+Default = 1. You might want to switch to octave 4 first, [source](https://en.wikipedia.org/wiki/Octave "Octave - Wikipedia").
 
-| key (numpad) | octave |
-|--------------|--------|
-| 0            | 0      |
-| 1            | 1      |
-| 2            | 2      |
-| 3            | 3      |
-| 4            | 4      |
-| 5            | 5      |
-| 6            | 6      |
-| 7            | 7      |
-| 8            | 8      |
+Press one of these keys* to change the octave of the keyboard (pitch?).\
+*On the number row, not the pad (decided on this for tenkeyless compatibility).
+
+| key | octave |
+|-----|--------|
+| 0   | 0      |
+| 1   | 1      |
+| 2   | 2      |
+| 3   | 3      |
+| 4   | 4      |
+| 5   | 5      |
+| 6   | 6      |
+| 7   | 7      |
+| 8   | 8      |
