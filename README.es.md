@@ -44,7 +44,7 @@ Está disponible en el administrador de librerías del IDE de Arduino.
 
 La siguiente sección (selector de octava) permite cambiar la octava/tono.
 
-| Tecla | Nota     | Nota otro nombre  |
+| Tecla | Nota       | Nota otro nombre  |
 |-------|------------|-------------------|
 | z     | do         | C                 |
 | s     | re♭ / do♯  | D menor / C mayor |
@@ -63,8 +63,8 @@ La siguiente sección (selector de octava) permite cambiar la octava/tono.
 
 Default = 1. Tal ves quieras comenzar con la octava 4, [fuente](https://en.wikipedia.org/wiki/Octave "Octave - Wikipedia").
 
-Presiona una de estas teclas* para cambiar la octava (tono?).\
-*En la fila de números, no el teclado numérico (decidí esto por compatibilidad con teclados cortos).
+Presiona una de estas teclas\* para cambiar la octava (tono?).\
+\*En la fila de números, no el teclado numérico (decidí esto por compatibilidad con teclados cortos).
 
 | Tecla | Octava |
 |-------|--------|

@@ -30,7 +30,7 @@ It's downloaded through the Arduino IDE library manager.
 
 [Source](https://docs.arduino.cc/built-in-examples/communication/Midi "MIDI Note Player | Arduino Documentation | Arduino Documentation")
 
-| MIDI | Arduino | Resistor	|
+| MIDI | Arduino | Resistor |
 |------|---------|----------|
 | 5    | 1       | 220 Ω    |
 | 2    | Gnd     | no       |
@@ -63,8 +63,8 @@ The next section (Octave selector) addresses changing octave/pitch.
 
 Default = 1. You might want to switch to octave 4 first, [source](https://en.wikipedia.org/wiki/Octave "Octave - Wikipedia").
 
-Press one of these keys* to change the octave of the keyboard (pitch?).\
-*On the number row, not the pad (decided on this for tenkeyless compatibility).
+Press one of these keys\* to change the octave of the keyboard (pitch?).\
+\*On the number row, not the pad (decided on this for tenkeyless compatibility).
 
 | Key | Octave |
 |-----|--------|
