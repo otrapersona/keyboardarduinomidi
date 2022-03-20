@@ -4,7 +4,7 @@ Through Arduino, use a USB keyboard as a MIDI controller for a music device.
 
 Tested on Genius SlimStar 130 (GK-150001) keyboard, Arduino UNO R3 board, Volca Kick analogue kick generator (firmware v 1.05, date 2019-09-10).
 
-Note: I learned *some* music theory in middle school, sorry if something for any music crime.
+Note: I learned *some* music theory in middle school, I'm sorry for any music crimes.
 
 ## Setup
 
