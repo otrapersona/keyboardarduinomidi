@@ -1,5 +1,7 @@
 # keyboardarduinomidi
 
+## [(Leeme en español)](https://github.com/otrapersona/keyboardarduinomidi/blob/main/README.es.md)
+
 Through Arduino, use a USB keyboard as a MIDI controller for a music device.
 
 Tested on Genius SlimStar 130 (GK-150001) keyboard, Arduino UNO R3 board, Volca Kick analogue kick generator (firmware v 1.05, date 2019-09-10).
@@ -17,7 +19,7 @@ It's downloaded through the Arduino IDE library manager.
 
 [Source](https://create.arduino.cc/projecthub/michalin70/connect-a-usb-keyboard-with-an-arduino-50c077 "Connect a USB Keyboard with an Arduino - Arduino Project Hub") and [source](https://create.arduino.cc/projecthub/Ahmedebeed555/connect-arduino-uno-to-usb-keyboard-2f01f8 "Connect Arduino UNO to USB Keyboard - Arduino Project Hub")
 
-| Keyboard | arduino | Resistor |
+| Keyboard | Arduino | Resistor |
 |----------|---------|----------|
 | 5v       | 5v      | no       |
 | Gnd      | Gnd     | no       |
@@ -64,7 +66,7 @@ Default = 1. You might want to switch to octave 4 first, [source](https://en.wik
 Press one of these keys* to change the octave of the keyboard (pitch?).\
 *On the number row, not the pad (decided on this for tenkeyless compatibility).
 
-| key | octave |
+| Key | Octave |
 |-----|--------|
 | 0   | 0      |
 | 1   | 1      |
